@@ -1,5 +1,4 @@
-# pt4sn3-al2o3
-Ethylene dehydrogenation, c2h4/pt4sn3/al2o3
+# Ethylene dehydrogenation on pt4sn3/al2o3
 
 XYZ coordinates along with the bader charge of C2H4/Pt4Sn3/Al2O3(0001) and Pt4Sn3/Al2O3(0001) obtained from global optimization using PAW-DFT with PBE functional.
 
