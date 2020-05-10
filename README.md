@@ -1,4 +1,4 @@
-# Ethylene dehydrogenation on pt<sub>4</sub>sn<sub>3</sub>/al<sub>2</sub>o<sub>3</sub>
+# Ethylene Dehydrogenation on Pt<sub>4</sub>Sn<sub>3</sub>/Al<sub>2</sub>O<sub>3</sub>
 
 XYZ coordinates along with the bader charge of C<sub>2</sub>H<sub>4</sub>/Pt<sub>4</sub>Sn<sub>3</sub>/Al<sub>2</sub>O<sub>3</sub>(0001) and Pt<sub>4</sub>Sn<sub>3</sub>/Al<sub>2</sub>O<sub>3</sub>(0001) obtained from global optimization using PAW-DFT with PBE functional.
 
